@@ -1,1 +1,2 @@
 this is the acmw git workshop
+My name is Anaya and I am teaching a Git workshop.
